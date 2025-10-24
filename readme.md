@@ -91,4 +91,22 @@ It focuses on identifying patterns in anime ratings, episode counts, and airing 
    df[df['Episodes'] == df['Episodes'].max()]
     
    
+---
+
+## 📈 Sample Insights  
+
+- **Top-Rated Anime:** *Fullmetal Alchemist: Brotherhood* (Score: 9.10)  
+- **Longest-Running Anime in Dataset:** *Gintama* (201 Episodes)  
+- **Typical Airing Duration:** Between 3–12 months for most series  
+
+---
+
+## 🚀 Future Enhancements  
+
+- Add data visualization using **Matplotlib** or **Seaborn**.  
+- Build a **web dashboard** for interactive anime insights.  
+- Integrate real-time data from anime APIs like **Jikan (MyAnimeList API)**.  
+
+---
+
 
